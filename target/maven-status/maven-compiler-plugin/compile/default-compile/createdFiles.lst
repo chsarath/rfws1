@@ -1,0 +1,7 @@
+com\employee\dao\Employee.class
+com\employee\dao\EmployeeDAO.class
+com\employee\RestServices.class
+com\employee\EmployeeBean.class
+com\employee\HibernateConnector.class
+com\employee\dao\SessionUtil.class
+com\test\copy\EmployeeRESTServiceTest.class
